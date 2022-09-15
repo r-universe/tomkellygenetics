@@ -13,6 +13,11 @@
 	url = https://github.com/tomkellygenetics/leiden
 	shallow = true
 	registered = true
+[submodule "matrixcalc"]
+	path = matrixcalc
+	url = https://github.com/tomkellygenetics/matrixcalc
+	shallow = true
+	registered = true
 [submodule "vioplot"]
 	path = vioplot
 	url = https://github.com/tomkellygenetics/vioplot

@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "matrixcalc",
+    "oncran": true
+  },
+  {
     "package": "vioplot",
     "oncran": true
   }
