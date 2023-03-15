@@ -1,18 +1,18 @@
 [
   {
-    "package": "leiden",
-    "oncran": true
-  },
-  {
     "package": "graphsim",
     "oncran": true
   },
   {
-    "package": "vioplot",
+    "package": "leiden",
     "oncran": true
   },
   {
     "package": "matrixcalc",
+    "oncran": true
+  },
+  {
+    "package": "vioplot",
     "oncran": true
   }
 ]
