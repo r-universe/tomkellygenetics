@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "graphsim"]
 	path = graphsim
 	url = https://github.com/tomkellygenetics/graphsim
-	shallow = true
-	registered = true
 [submodule "leiden"]
 	path = leiden
 	url = https://github.com/tomkellygenetics/leiden
-	shallow = true
-	registered = true
 [submodule "matrixcalc"]
 	path = matrixcalc
 	url = https://github.com/tomkellygenetics/matrixcalc
-	shallow = true
-	registered = true
 [submodule "vioplot"]
 	path = vioplot
 	url = https://github.com/tomkellygenetics/vioplot
-	shallow = true
-	registered = true
